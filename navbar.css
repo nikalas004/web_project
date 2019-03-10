@@ -1,0 +1,40 @@
+#navbar{
+	list-style-type: none;
+	background-color: #333;
+	height: 30px;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar_link {
+	float: left;
+	padding: 5px 1.5% 5px 1.5%;
+}
+
+.nav_link {
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+.navbar_link:hover {
+  background-color: #111;
+}
+
+.nav_link:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.symbol {
+	display: block;
+	float: left;
+	color: white;
+	margin: 2px 5px;
+}
+
+.user_link {
+	float: right;
+}
