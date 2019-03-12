@@ -1,0 +1,25 @@
+p {
+	margin: 0 0 5px 0;
+	padding: 0;
+	color: white;
+}
+
+.form {
+	background-color: black;
+	float: left;
+	padding: 70px 50px 0;
+	margin: 13% 37%;
+}
+
+.button {
+	width: 100px;
+	margin: 50px 70px;
+}
+
+/*.link{
+	padding: 10px;
+}*/
+
+body {
+	background-image: url("login-background4.jpg");
+}
