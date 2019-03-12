@@ -12,6 +12,7 @@
 	color: #D3D3D3;
 	font-family: "Allerta Stencil", Sans-serif;
 	font-size: 40px;
+	text-shadow:1px 1px 0 #444;
 }
 
 .game_text {
@@ -20,6 +21,8 @@
 	width: 70%;
 	margin-left: 50px;
 	margin-top: 20px;
+	font-size: 20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .game_image {
@@ -27,6 +30,24 @@
 	height: 200px;
 	display: inline;
 	float: left;
+}
+
+.game_preview {
+	display: block;
+	float: left;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.game_link {
+	float: left;
+	margin-left: 60px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.game_title {
+	font-size: 30px;
 }
 
 body {
