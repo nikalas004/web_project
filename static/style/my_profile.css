@@ -1,0 +1,36 @@
+#title {
+	color: white;
+	font-size: 100px;
+}
+
+#user_pic {
+	margin: 50px;
+	height: 200px;
+	width: 240px;
+	display: inline;
+	float: left;
+}
+
+.user_field {
+	color: white;
+	font-size: 40px;
+	margin: 10px 50px;
+}
+
+.profile {
+	margin-top: 50px;
+}
+
+#btns {
+	margin: 10px;
+	display: inline;
+	float: left;
+}
+
+.btn {
+	padding: 5px;
+}
+
+button {
+	border-radius: 5px;
+}

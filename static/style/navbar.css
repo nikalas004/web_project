@@ -35,6 +35,17 @@
 	margin: 2px 5px;
 }
 
+body {
+	background-color: black;
+}
+
+#site_title{
+	height: 200px;
+	width: 50%;
+	margin: 0 25%;
+}
+
 .user_link {
 	float: right;
 }
+

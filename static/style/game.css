@@ -1,0 +1,15 @@
+#game_title {
+	margin: 40px;
+	color: #D3D3D3;
+	font-size: 50px;
+}
+
+#topics {
+	margin: 30px;
+	list-style-type: none;
+}
+
+.topic {
+	font-size: 35px;
+	border-bottom: 1px solid grey;
+}

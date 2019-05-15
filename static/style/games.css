@@ -1,0 +1,15 @@
+.game {
+	display: inline;
+	float: left;
+	margin: 25px;
+}
+
+.game_title {
+	font-size: 30px;
+	text-align: center;
+}
+
+.game_img {
+	height: 200px;
+	width: 200px;
+}

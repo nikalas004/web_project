@@ -16,10 +16,6 @@ p {
 	margin: 50px 70px;
 }
 
-/*.link{
-	padding: 10px;
-}*/
-
 body {
-	background-image: url("login-background4.jpg");
+	background-image: url("../images/login-background4.jpg");
 }
